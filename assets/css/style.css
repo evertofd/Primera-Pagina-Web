@@ -30,7 +30,7 @@ h1{
   font-weight: 200;
 }
 
-.estilo2{
+.oswald-font{
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
 }
@@ -42,4 +42,8 @@ p{
 
 hr{
   border-top: solid 1px #fff;
+}
+
+.img_mano{
+  cursor: pointer;
 }
